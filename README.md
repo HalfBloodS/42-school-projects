@@ -1,2 +1,2 @@
-# 42-school-projects
-42 school projects
+# 42_school_projects_piscine
+42_school_projects_piscine
